@@ -13,7 +13,7 @@ Original data were copied into csv format using Pandas. It was then split into 2
 <ul>
   <li></li>
 </ul>
-All these data files are stored in the <a href="./Data">Data</a> folder of this repository.
+All these data files are stored in the <a href="/Data">Data</a> folder of this repository.
 
 ## Data Processing
 
