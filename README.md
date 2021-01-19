@@ -32,7 +32,7 @@ used as a training file for the ML model. Note the unnamed first column can cros
 ## Data Processing
 Machine learning work was done through Apple's Create ML framework. The model was created using Tabular Classification method. The project file and resultant 3 models for the prediction of the 3 digit places are saved in <a href="./Model">Model</a> folder.
 
-## Data Visulizaiton
+## Data Visualizaton
 This is an on-going work to visualize the model prediction capability.
 
 ### THH Calculator (iOS App)
