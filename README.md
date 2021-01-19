@@ -12,7 +12,7 @@ Use ML to predict Thailand's last three digit of the first prize lottery number.
   </ul>
 </p>
 <p>
-  Original data file was converted to csv and json formats and renamed as "30Y_preproc.csv" and "30Y_preproc.json", respectively. Two additional csv files were created by splitting the original data file.  They are "30Y_preproc_training" and "30Y_preproc_eval" for the purpose of training and testing the ML model. Python/Pandas routines to do this conversion is included in a JupyterLab.
+  Original data file was converted to csv and json formats and renamed as "30Y_preproc.csv" and "30Y_preproc.json", respectively. Two additional csv files were created by splitting the original data file.  They are "30Y_preproc_training.csv" and "30Y_preproc_eval.csv" for the purpose of training and testing the ML model. Python/Pandas routines to do this conversion is included in JupyterLab file "Data Preprocessing.ipynb".
 </p>
 <p>
   All these data files are stored in the <a href="./Data">Data</a> folder of this repository.
